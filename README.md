@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# SpaceX
+
+A simple web app made to study the use of apollo client to consume spacex graphql api. In this application I used react-router-dom to show a details page bout the launches and implemented a view more funcionality using apollo's fetchMore functionality. The folder structure is pretty simple, just enough to show the list and details screen and its functionalities since this is only a study project.
+
+# Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
